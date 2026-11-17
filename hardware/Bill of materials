@@ -1,0 +1,43 @@
+# Bill of Materials (BOM)
+
+## 1. Electronic Components
+
+| Component | Quantity | Application |
+|---|---:|---|
+| NE555 Timer IC | 1 | Astable signal generation |
+| LM358 Op-Amp | 1 | Signal buffering |
+| LM386 Audio Amplifier | 1 | Audio amplification |
+| Light Dependent Resistor (LDR) | 2 | Pitch and volume control |
+| Resistors | As required | Timing and signal conditioning |
+| Capacitors | As required | Frequency control and coupling |
+| Speaker | 1 | Audio output |
+| 9V Power Supply | 2 | Circuit and amplifier power |
+
+## 2. Prototyping Materials
+
+| Material | Application |
+|---|---|
+| Breadboard | Initial circuit assembly and testing |
+| Jumper wires | Electrical connections |
+| Dot PCB | Permanent circuit implementation |
+| Soldering materials | Component mounting and connections |
+
+## 3. Project Budget
+
+| Expense Category | Cost |
+|---|---:|
+| Electronic components | Included in total |
+| Breadboard prototyping | Included in total |
+| Dot PCB implementation | Included in total |
+| Other materials | Included in total |
+| **Total Project Expenditure** | **₹457** |
+
+## 4. Notes
+
+- The project was initially developed and tested
+  using a breadboard.
+- The circuit was subsequently implemented on a dot PCB.
+- The budget represents the total reported project
+  expenditure.
+- An item-wise cost breakdown can be added when
+  individual purchase prices are verified.
